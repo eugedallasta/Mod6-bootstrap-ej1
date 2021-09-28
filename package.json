@@ -1,0 +1,24 @@
+{
+  "name": "mod6-bootstrap-ej1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "purgecss --css css/custom.css --content index.html -o css/reducido.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugedallasta/Mod6-bootstrap-ej1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eugedallasta/Mod6-bootstrap-ej1/issues"
+  },
+  "homepage": "https://github.com/eugedallasta/Mod6-bootstrap-ej1#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.1"
+  }
+  
+}
